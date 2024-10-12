@@ -16,41 +16,58 @@
       "id": 1,
       "nome": "João Silva",
       "cpf": "123.456.789-00",
-      "nascimento": "2000-01-01",
       "matricula": "2020001",
-      "curso": "Engenharia"
+      "cursoId": 2
     },
     {
       "id": 2,
       "nome": "Maria Oliveira",
       "cpf": "987.654.321-00",
-      "nascimento": "1999-05-15",
       "matricula": "2020002",
-      "curso": "Medicina"
+      "cursoId": 3
     },
     {
       "id": 3,
       "nome": "Pedro Santos",
       "cpf": "456.789.123-00",
-      "nascimento": "2001-08-22",
       "matricula": "2020003",
-      "curso": "Direito"
+      "cursoId": 5
     },
     {
       "id": 4,
       "nome": "Ana Costa",
       "cpf": "789.123.456-00",
-      "nascimento": "1998-11-10",
       "matricula": "2020004",
-      "curso": "Administração"
+      "cursoId": 1
     },
     {
       "id": 5,
       "nome": "Lucas Pereira",
       "cpf": "321.654.987-00",
-      "nascimento": "2002-02-18",
       "matricula": "2020005",
-      "curso": "Ciência da Computação"
+      "cursoId": 4
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "nome": "Administração"
+    },
+    {
+      "id": 2,
+      "nome": "Eletrotécnica"
+    },
+    {
+      "id": 3,
+      "nome": "Enfermagem"
+    },
+    {
+      "id": 4,
+      "nome": "Logística"
+    },
+    {
+      "id": 5,
+      "nome": "Segurança do Trabalho"
     }
   ]
 }
