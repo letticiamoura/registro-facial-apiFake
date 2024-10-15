@@ -52,7 +52,7 @@
     {
         "id": 1,
         "nome": "Luiza Fontenelle",
-        "graduação": "Engenharia",
+        "graduacao": "Engenharia",
         "email": "luiza.fontenelle@example.com",
         "cpf": "555.555.555-55",
         "disciplina": "Circuitos Eletricos"
@@ -60,7 +60,7 @@
     {
         "id": 2,
         "nome": "Carlos Silva",
-        "graduação": "Enfermagem",
+        "graduacao": "Enfermagem",
         "email": "carlos.silva@example.com",
         "cpf": "444.444.444-44",
         "disciplina": "Primeiros Socorros"
@@ -68,7 +68,7 @@
     {
         "id": 3,
         "nome": "Ana Pereira",
-        "graduação": "Logística",
+        "graduacao": "Logística",
         "email": "ana.pereira@example.com",
         "cpf": "333.333.333.-33",
         "disciplina": "Introdução a Logistica"
@@ -76,7 +76,7 @@
     {
         "id": 4,
         "nome": "Fernanda Santos",
-        "graduação": "Enfermagem",
+        "graduacao": "Enfermagem",
         "email": "fernanda.santos@example.com",
         "cpf": "222.222.222.-22",
         "disciplina": "Injetáveis"
@@ -84,7 +84,7 @@
     {
         "id": 5,
         "nome": "João Oliveira",
-        "graduação": "Administração",
+        "graduacao": "Administração",
         "email": "joao.oliveira@example.com",
         "cpf": "111.111.111-11",
         "disciplina": "Introdução á negocios"
