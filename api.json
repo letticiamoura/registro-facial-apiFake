@@ -48,6 +48,48 @@
       "cursoId": 4
     }
   ],
+  "teachers": [
+    {
+        "id": 1,
+        "nome": "Luiza Fontenelle",
+        "graduação": "Matemática",
+        "email": "luiza.fontenelle@example.com",
+        "telefone": "(85) 98765-4321",
+        "experiencia": "10 anos"
+    },
+    {
+        "id": 2,
+        "nome": "Carlos Silva",
+        "graduação": "História",
+        "email": "carlos.silva@example.com",
+        "telefone": "(85) 98888-7777",
+        "experiencia": "8 anos"
+    },
+    {
+        "id": 3,
+        "nome": "Ana Pereira",
+        "graduação": "Física",
+        "email": "ana.pereira@example.com",
+        "telefone": "(85) 99999-6666",
+        "experiencia": "5 anos"
+    },
+    {
+        "id": 4,
+        "nome": "Fernanda Santos",
+        "graduação": "Química",
+        "email": "fernanda.santos@example.com",
+        "telefone": "(85) 95555-4444",
+        "experiencia": "12 anos"
+    },
+    {
+        "id": 5,
+        "nome": "João Oliveira",
+        "graduação": "Literatura",
+        "email": "joao.oliveira@example.com",
+        "telefone": "(85) 93333-3333",
+        "experiencia": "7 anos"
+    }
+],
   "courses": [
     {
       "id": 1,
