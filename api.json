@@ -14,35 +14,35 @@
   "students": [
     {
       "id": 1,
-      "nome": "João Silva",
+      "nome": "Leticia Moura",
       "cpf": "123.456.789-00",
       "matricula": "2020001",
       "cursoId": 2
     },
     {
       "id": 2,
-      "nome": "Maria Oliveira",
+      "nome": "Matheus Bezerra",
       "cpf": "987.654.321-00",
       "matricula": "2020002",
       "cursoId": 3
     },
     {
       "id": 3,
-      "nome": "Pedro Santos",
+      "nome": "João Victor",
       "cpf": "456.789.123-00",
       "matricula": "2020003",
       "cursoId": 5
     },
     {
       "id": 4,
-      "nome": "Ana Costa",
+      "nome": "Leonardo Abreu",
       "cpf": "789.123.456-00",
       "matricula": "2020004",
       "cursoId": 1
     },
     {
       "id": 5,
-      "nome": "Lucas Pereira",
+      "nome": "Leonardo Gomes",
       "cpf": "321.654.987-00",
       "matricula": "2020005",
       "cursoId": 4
